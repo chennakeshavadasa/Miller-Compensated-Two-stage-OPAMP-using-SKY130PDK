@@ -17,3 +17,6 @@ Design of miller compensated 2 stage opamp using open source SKY130PDK
 The circuit of an OPAMP includes a Differential Stage which contains a differential pair and current mirror. It also includes an Amplification stage to increase the gain.
 
 ![image](https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/assets/123294639/9c016285-e9c8-4366-aa3d-c95bb129947a)
+
+# Schematic
+![2stageopamptry](https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/assets/123294639/f8c40747-e6d4-4bdf-bb2b-52cce451dd27)
