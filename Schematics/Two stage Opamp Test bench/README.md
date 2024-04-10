@@ -10,6 +10,10 @@ This involes obtaing the gain and phase margin of OPAMP
 ## Obtaining its Gain and Phase margin
 - We give a small excitation of 1V from an AC source to the Vin Plus terminal and we provide the same input with a phase difference of 180 degree to the Vin Minus terminal
 - We obtain a magnitude bode plot of the OPAMP
+- Give the below commands at the terminal of xterm after you simulate the circuit
+   ```
+      plot db(vout) 180*cph(vout)/pi
+   
 - <p align="center">
   <img src="https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/assets/123294639/de16d6a5-cb3e-4a5b-9a31-47473e0e676b" alt="Description of the image" />
 </p>
