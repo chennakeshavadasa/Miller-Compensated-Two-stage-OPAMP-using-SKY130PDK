@@ -18,6 +18,7 @@
 <p align="center">
   <img src="https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/assets/123294639/1fece544-540c-4ade-a491-df149e0fe86f" alt="Description of the image" />
 </p>
+
 - From this we calculate the value of μCox of NMOS as μnCox = 240μA/V^2
 
 ## Calculate μCox value of PMOS
@@ -26,4 +27,5 @@
 <p align="center">
   <img src="https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/assets/123294639/d91b420e-602f-4d85-a9bc-054b02aa39a6" />
 </p>
+
 - From this we calculate the value of μCox of PMOS as μpCox = 70μA/V^2
