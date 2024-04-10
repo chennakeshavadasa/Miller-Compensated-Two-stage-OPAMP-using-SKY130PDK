@@ -19,4 +19,4 @@ The circuit of an OPAMP includes a Differential Stage which contains a different
 ![image](https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/assets/123294639/9c016285-e9c8-4366-aa3d-c95bb129947a)
 
 # Schematic
-![2stageopamptry](https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/assets/123294639/f8c40747-e6d4-4bdf-bb2b-52cce451dd27)
+![2stageopamptrynew](https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/assets/123294639/c4372c1d-61e5-41a9-87c7-ef7ca7187a85)
