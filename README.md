@@ -14,6 +14,6 @@ Design of miller compensated 2 stage opamp using open source SKY130PDK
 - VDD=1.8V
 
 # Circuit Diagram
-The circuit of an OPAMP includes a Differential Stage which contains a differential pair and a current mirror. It includes a Amplification stage to increase the gain.
+The circuit of an OPAMP includes a Differential Stage which contains a differential pair and current mirror. It includes a Amplification stage to increase the gain.
 
 ![image](https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/assets/123294639/9c016285-e9c8-4366-aa3d-c95bb129947a)
