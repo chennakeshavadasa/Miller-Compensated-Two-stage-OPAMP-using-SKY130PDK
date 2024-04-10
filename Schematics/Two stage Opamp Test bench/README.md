@@ -1,5 +1,6 @@
 # Two Stage OPAMP Design 
-This involes obtaing the gain and phase margin of OPAMP
+- This involes obtaing the gain and phase margin of OPAMP
+- You can obtain the Schematics file of the design - [Schematics](https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/blob/main/Schematics/Two%20stage%20Opamp%20Test%20bench/2stageopamptry.sch).
 
 ## Circuit
 <p align="center">
