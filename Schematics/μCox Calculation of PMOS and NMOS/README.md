@@ -13,7 +13,7 @@
 - Get the value of Id, Vgs, Vth and use standard equation of Id=0.5μCox(Vgs-Vth)^2
 
 ## Calculate μCox value of NMOS
--Here we simulate the design and we get the respective values of Vgs, Vth, Id
+- Here we simulate the design and we get the respective values of Vgs, Vth, Id
 
 <p align="center">
   <img src="https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/assets/123294639/1fece544-540c-4ade-a491-df149e0fe86f" alt="Description of the image" />
@@ -22,7 +22,7 @@
 - From this we calculate the value of μCox of NMOS as μnCox = 240μA/V^2
 
 ## Calculate μCox value of PMOS
--Here we simulate the design and we get the respective values of Vgs, Vth, Id
+- Here we simulate the design and we get the respective values of Vgs, Vth, Id
 
 <p align="center">
   <img src="https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/assets/123294639/d91b420e-602f-4d85-a9bc-054b02aa39a6" />
