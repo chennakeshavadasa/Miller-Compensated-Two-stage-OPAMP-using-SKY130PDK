@@ -30,4 +30,13 @@ The circuit of an OPAMP includes a Differential Stage which contains a different
 
 ![OPAMP_BodePlot_Phase](https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/assets/123294639/cbd42d6a-cb18-417a-a9e1-b3bc468c73f0)
 
+# Implementation
+- Its going on.
+
+# Layout
+- I have to start.
+
+# References
+- I've referred Analog IC Design Playlist by Prof. Nagendra Krishnapura of IIT Madras
+- Playlist: https://youtube.com/playlist?list=PLbMVogVj5nJRlMz5diOg9wBizaU6-egJc&si=f0DuX2HR8V7EEkBH
 
