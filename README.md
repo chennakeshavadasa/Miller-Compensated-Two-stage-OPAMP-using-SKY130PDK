@@ -10,7 +10,7 @@ Design of miller compensated 2 stage opamp using open source SKY130PDK
 - ICMR(+): 1.2V
 - ICMR(-): 0.8V
 - CL(Load Capacitance): 10pF
-- Power Dissipation: Minimum
+- Power Dissipation: <=80uW(this is bcs of the large load capacitance)
 - VDD=1.8V
 
 # Circuit Diagram
