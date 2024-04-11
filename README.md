@@ -33,7 +33,7 @@ The circuit of an OPAMP includes a Differential Stage which contains a different
 ![2stageopamptrynew](https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/assets/123294639/c4372c1d-61e5-41a9-87c7-ef7ca7187a85) 
 
 # Gain and Phase Margin
-- Achieved a gain of 60dB and a phase margin near to 60°
+- Achieved a gain of 60dB and a phase margin of 62°
  
 ![OPAMP_BodePLot_Mag](https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/assets/123294639/599db380-234d-4a6f-986b-cb15d2c37f0a)
 
