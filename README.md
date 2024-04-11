@@ -22,12 +22,12 @@ The circuit of an OPAMP includes a Differential Stage which contains a different
 
 # Design and Analysis
 - You can check out the Design and Analysis of the OPAMP [here](https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/tree/main/Circuit%20Design%20and%20Analysis).
-## Overview 
-(W/L) ratio of M3,M4 is found using ICMR(+) <br> 
-(W/L) ratio of M1,M2 is found using GBW <br>
-I5 is found using Slew Rate <br>
-(W/L) ratio of M5 is found using ICMR(-) <br>
-(W/L) ratio of M6 is found from Gain and design of M3, M4 <br>
+-  Design Overview 
+   - (W/L) ratio of M3,M4 is found using ICMR(+) <br> 
+   - (W/L) ratio of M1,M2 is found using GBW <br>
+   - I5 is found using Slew Rate <br>
+   - (W/L) ratio of M5 is found using ICMR(-) <br>
+   - (W/L) ratio of M6 is found from Gain and design of M3, M4 <br>
 
 # Schematic
 ![2stageopamptrynew](https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/assets/123294639/c4372c1d-61e5-41a9-87c7-ef7ca7187a85) 
