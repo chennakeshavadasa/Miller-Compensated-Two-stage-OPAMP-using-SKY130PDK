@@ -35,7 +35,7 @@ The circuit of an OPAMP includes a Differential Stage which contains a different
 # Gain and Phase Margin
 - Achieved specifications:
 
-DC gain = 60 dB, Gain-Bandwidth product = 7.5 MHz, Phase Margin =62 degrees, Power Dissipation = 14.3 uW 
+DC gain = 60 dB, Gain-Bandwidth product = 7.5 MHz, Phase Margin =62 degrees, Power Dissipation = 40 uW 
 ![OPAMP_BodePLot_Mag](https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/assets/123294639/599db380-234d-4a6f-986b-cb15d2c37f0a)
 
 ![OPAMP_BodePlot_Phase](https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/assets/123294639/cbd42d6a-cb18-417a-a9e1-b3bc468c73f0)
