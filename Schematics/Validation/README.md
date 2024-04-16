@@ -1,1 +1,1 @@
-
+Many of the Verification and validation features that are present in Cadence are not present in Xschem, so its next to impossible doing many Validation like noise, Harmonics and many others. I'll try to do it with Cadence if possiblle and upload it 
