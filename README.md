@@ -30,7 +30,7 @@ The circuit of an OPAMP includes a Differential Stage which contains a different
    - (W/L) ratio of M6 is found from Gain and design of M3, M4 <br>
 
 # Schematic
-![2stageopamptrynew](https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/assets/123294639/c4372c1d-61e5-41a9-87c7-ef7ca7187a85) 
+![2stageopamptrynew](https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/assets/123294639/f5cc6dff-3377-456b-946f-d42a7977c8e1) 
 
 # Gain and Phase Margin
 - Achieved specifications:
