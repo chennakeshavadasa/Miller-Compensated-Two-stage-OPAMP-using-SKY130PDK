@@ -35,7 +35,7 @@ The circuit of an OPAMP includes a Differential Stage which contains a different
 
 # Gain and Phase Margin
 - Achieved specifications:
-  - C gain: 60 dB, GBW(new): 10 MHz, Phase Margin(new): 80°, Power Dissipation : 41μW (because of the large CL), Slew Rate: 9.06V/sec, CMRR: 71dB
+  - DC gain: 60 dB, GBW(new): 10 MHz, Phase Margin(new): 80°, Power Dissipation : 41μW (because of the large CL), Slew Rate: 9.06V/sec, CMRR: 71dB
 ![Mag](https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/assets/123294639/dcd89616-57f3-4885-87ee-d0d22c322530)
 
 ![Phase](https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/assets/123294639/e0b3eb95-128b-44e9-a7cc-cf915cf0463c)
