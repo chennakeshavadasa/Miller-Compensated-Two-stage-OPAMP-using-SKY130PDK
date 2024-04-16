@@ -31,14 +31,18 @@ The circuit of an OPAMP includes a Differential Stage which contains a different
 
 # Schematic
 ![2stageopamptrynew](https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/assets/123294639/f5cc6dff-3377-456b-946f-d42a7977c8e1) 
+![Twostageopamp_try2](https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/assets/123294639/18352b87-a7a6-4d76-90df-2d259a275524)
 
 # Gain and Phase Margin
 - Achieved specifications:
 
 DC gain = 60 dB, Gain-Bandwidth product = 7.5 MHz, Phase Margin =62 degrees, Power Dissipation = 41 uW 
-![OPAMP_BodePLot_Mag](https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/assets/123294639/599db380-234d-4a6f-986b-cb15d2c37f0a)
+![Mag](https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/assets/123294639/dcd89616-57f3-4885-87ee-d0d22c322530)
 
-![OPAMP_BodePlot_Phase](https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/assets/123294639/cbd42d6a-cb18-417a-a9e1-b3bc468c73f0)
+![Phase](https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/assets/123294639/e0b3eb95-128b-44e9-a7cc-cf915cf0463c)
+
+![OPAMP_BodePlot](https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/assets/123294639/df30090f-4bd0-4e84-8901-56bc1f8951b0)
+
 
 # Implementation
 - Ongoing.
