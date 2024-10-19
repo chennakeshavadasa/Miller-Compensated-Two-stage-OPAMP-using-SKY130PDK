@@ -48,8 +48,6 @@ The circuit of an OPAMP includes a Differential Stage which contains a different
 # Implementation
 [Implementation](https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/tree/main/Schematics/Implementation)
 
-# Layout
-- I have to start.
 
 # References
 - I've referred Analog IC Design Playlist by Prof. Nagendra Krishnapura of IIT Madras
