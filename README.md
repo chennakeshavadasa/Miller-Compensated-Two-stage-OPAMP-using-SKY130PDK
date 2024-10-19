@@ -46,8 +46,18 @@ The circuit of an OPAMP includes a Differential Stage which contains a different
 
 
 # Implementation
-[Implementation](https://github.com/chennakeshavadasa/Miller-Compensated-Two-stage-OPAMP-using-SKY130PDK/tree/main/Schematics/Implementation)
 
+- Digital to Analog Converter (R2R DAC)
+     <p align="center"> <img src="https://github.com/user-attachments/assets/e6ab517d-5a07-4110-a614-c42443f5651f" alt="Image" /> </p>
+     <p align="center"> <img src="https://github.com/user-attachments/assets/d107a5ef-a94d-40c4-b4e3-0bb3f45a5095" alt="Image" /> </p>
+
+- Low Pass Filter
+    <p align="center"> <img src="https://github.com/user-attachments/assets/3b485c7b-7cbd-4589-a4fa-a27259c13e8e" alt="Image" /> </p>
+    <p align="center"> <img src="https://github.com/user-attachments/assets/8a6a8911-cdf2-46e9-842d-e5fc2c21695f" alt="Image" /> </p>
+  
+- High Pass Filter
+    <p align="center"> <img src="https://github.com/user-attachments/assets/df45176b-3e2e-47cf-8e63-5e56b1eefe45" alt="Image" /> </p>
+    <p align="center"> <img src="https://github.com/user-attachments/assets/ed05cde1-17dc-4936-957f-358ae2be4ccd" alt="Image" /> </p>
 
 # References
 - I've referred Analog IC Design Playlist by Prof. Nagendra Krishnapura of IIT Madras
